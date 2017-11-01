@@ -15,8 +15,9 @@
     "url": "https://github.com/TheDavidGage/howtonpm/issues"
   },
   "homepage": "https://github.com/TheDavidGage/howtonpm#readme",
-  "description": "",
+  "description": "readme",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {}
 }
